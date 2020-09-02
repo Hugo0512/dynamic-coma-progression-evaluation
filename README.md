@@ -1,1 +1,1 @@
-# dynamic-coma-progression-evaluation
+# dynamic-coma-progression-prediction
